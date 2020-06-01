@@ -8,3 +8,5 @@ list of git comments:-
 7.git reset
 8.git status
 9.git rm
+10.git branch
+11.git checkout
